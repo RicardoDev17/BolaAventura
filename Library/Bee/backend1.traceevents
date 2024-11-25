@@ -1,0 +1,359 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1731546016922674, "dur":3272, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731546016925963, "dur":982, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731546016927024, "dur":341, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731546016927564, "dur":103, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1731546016927816, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/level5" }}
+,{ "pid":12345, "tid":0, "ts":1731546016928214, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1731546016928460, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":0, "ts":1731546016928998, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016929221, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016929583, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016929736, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016930083, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016930272, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016930464, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016930633, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016930875, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016931012, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016931186, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1731546016927387, "dur":4335, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731546016931724, "dur":435996, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731546017367721, "dur":140, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731546017368034, "dur":2946, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1731546016927805, "dur":3936, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731546016931746, "dur":8162, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731546016939929, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1731546016939998, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1731546016940116, "dur":71, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1731546016940447, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Ricrado Perez\\Tutorial\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731546016940525, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Ricrado Perez\\Tutorial\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731546016940594, "dur":515, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Ricrado Perez\\Tutorial\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731546016941111, "dur":269, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Ricrado Perez\\Tutorial\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731546016941381, "dur":344, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Ricrado Perez\\Tutorial\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731546016941727, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Ricrado Perez\\Tutorial\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731546016941894, "dur":388, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Ricrado Perez\\Tutorial\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731546016942284, "dur":122, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Ricrado Perez\\Tutorial\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731546016942407, "dur":341, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Ricrado Perez\\Tutorial\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1731546016939997, "dur":2923, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1731546016943703, "dur":416843, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1731546017366143, "dur":158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1731546017366141, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1731546017366333, "dur":1255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1731546016928061, "dur":3712, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016931777, "dur":850, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016932628, "dur":463, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016933091, "dur":6829, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016939922, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1731546016940046, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016954360, "dur":2130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1731546016956855, "dur":4475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016961389, "dur":162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016961651, "dur":4556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016966272, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016966342, "dur":2815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016969198, "dur":881, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016970108, "dur":1946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016972100, "dur":703, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016972820, "dur":3355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016976277, "dur":3587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016979909, "dur":849, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016983986, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016980780, "dur":3288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016984703, "dur":195, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016984916, "dur":2302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016987274, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016987430, "dur":2440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016989951, "dur":2687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546016992685, "dur":228, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546016992933, "dur":8220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017001202, "dur":89, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017001308, "dur":3548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017004947, "dur":12648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017017641, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017017730, "dur":6557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017024433, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017024539, "dur":6950, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017031601, "dur":117, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017031728, "dur":186, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017037220, "dur":7499, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017031918, "dur":12823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017044837, "dur":20366, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017065367, "dur":88, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017065458, "dur":4194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017069734, "dur":921, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017070674, "dur":34680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017105403, "dur":306, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017105749, "dur":2887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017108818, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017111288, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1731546017111391, "dur":24244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1731546017135712, "dur":18519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets6.resource" }}
+,{ "pid":12345, "tid":2, "ts":1731546017154291, "dur":1348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1731546017155716, "dur":9627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1731546017165397, "dur":2813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level6" }}
+,{ "pid":12345, "tid":2, "ts":1731546017168387, "dur":3989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level5" }}
+,{ "pid":12345, "tid":2, "ts":1731546017172427, "dur":3149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level2.resS" }}
+,{ "pid":12345, "tid":2, "ts":1731546017175635, "dur":11465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level1" }}
+,{ "pid":12345, "tid":2, "ts":1731546017187982, "dur":179639, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016927929, "dur":3825, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016931757, "dur":899, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016932657, "dur":7258, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016939939, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1731546016939916, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1731546016941123, "dur":5973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1731546016947367, "dur":2554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1731546016950468, "dur":1674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1731546016952594, "dur":2169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1731546016954811, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1731546016954808, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1731546016954930, "dur":2933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1731546016957910, "dur":647, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":3, "ts":1731546016957909, "dur":650, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Bola Aventura.exe" }}
+,{ "pid":12345, "tid":3, "ts":1731546016958640, "dur":1497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura.exe" }}
+,{ "pid":12345, "tid":3, "ts":1731546016960341, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016960682, "dur":5841, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016966575, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016966792, "dur":1992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016968917, "dur":2317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016971324, "dur":2879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016974281, "dur":650, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016974953, "dur":3218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016978431, "dur":108, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016978555, "dur":6208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016984820, "dur":253, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016985093, "dur":2265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016987395, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016987565, "dur":1789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016989437, "dur":396, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016989853, "dur":1750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016991645, "dur":390, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016992058, "dur":2927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546016995030, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546016995214, "dur":8466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017003823, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546017003900, "dur":18674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017022697, "dur":6578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017029453, "dur":176, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546017029652, "dur":5873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017035572, "dur":240, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546017038567, "dur":6768, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546017035834, "dur":9513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017045410, "dur":20382, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546017065817, "dur":5786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017071649, "dur":342, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546017072011, "dur":46569, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017118631, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546017118737, "dur":4562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017123358, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546017123448, "dur":1806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017125316, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1731546017125482, "dur":7195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1731546017132744, "dur":23527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets7.assets" }}
+,{ "pid":12345, "tid":3, "ts":1731546017159161, "dur":1298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1731546017160525, "dur":11162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1731546017171741, "dur":3964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level3" }}
+,{ "pid":12345, "tid":3, "ts":1731546017175770, "dur":5937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1731546017181879, "dur":1850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1731546017183767, "dur":183972, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016928008, "dur":3754, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016932075, "dur":587, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546016931766, "dur":1440, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016933206, "dur":6716, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016939923, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1731546016940030, "dur":136, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016972887, "dur":8163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":4, "ts":1731546016981154, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/Bola Aventura_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546016981251, "dur":2180, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016983492, "dur":4771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546016990474, "dur":74, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016988349, "dur":2246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546016990654, "dur":376, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016995766, "dur":283, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016991054, "dur":5047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546016996165, "dur":1943, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546016998151, "dur":6405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017004664, "dur":12730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017017480, "dur":224, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017022435, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017017726, "dur":4810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017022714, "dur":7174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017029972, "dur":57, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017035009, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017030048, "dur":5070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017035199, "dur":96, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017038671, "dur":8358, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017035319, "dur":11728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017047357, "dur":18140, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017065670, "dur":5289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017071005, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017071176, "dur":3181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017098479, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017074503, "dur":24187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017098825, "dur":9057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017107971, "dur":1493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017109619, "dur":7491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017117177, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017117251, "dur":8041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017125365, "dur":296, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017191620, "dur":155, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1731546017125699, "dur":66117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1731546017191881, "dur":175769, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016928111, "dur":3672, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016931786, "dur":892, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016932678, "dur":7234, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016939925, "dur":62, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016940000, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016955495, "dur":1099, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/app.info" }}
+,{ "pid":12345, "tid":5, "ts":1731546016956597, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1731546016956653, "dur":194, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016963314, "dur":301, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016957315, "dur":6343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":5, "ts":1731546016963888, "dur":8522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1731546016972460, "dur":399, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016972865, "dur":139, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016973014, "dur":20789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1731546016994020, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016994229, "dur":91, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546016994323, "dur":7101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1731546017001469, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546017001555, "dur":3122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1731546017004777, "dur":2305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1731546017007148, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546017031705, "dur":203, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546017007278, "dur":25075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1731546017032502, "dur":3628, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546017036156, "dur":8546, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546017044711, "dur":82381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1731546017127702, "dur":471, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546017128229, "dur":10924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1731546017139218, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets6.assets" }}
+,{ "pid":12345, "tid":5, "ts":1731546017141542, "dur":2158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":5, "ts":1731546017143928, "dur":126, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546017144057, "dur":2009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":5, "ts":1731546017146200, "dur":4260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1731546017150609, "dur":10304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1731546017160966, "dur":1777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1731546017162811, "dur":5368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level7" }}
+,{ "pid":12345, "tid":5, "ts":1731546017169079, "dur":3611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level4.resS" }}
+,{ "pid":12345, "tid":5, "ts":1731546017172769, "dur":2965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level2" }}
+,{ "pid":12345, "tid":5, "ts":1731546017175843, "dur":6451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1731546017186274, "dur":135, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1731546017182351, "dur":4076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1731546017186476, "dur":181182, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546016928166, "dur":3640, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546016931809, "dur":842, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546016932651, "dur":7273, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546016939962, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":6, "ts":1731546016939926, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1731546016940070, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546016972445, "dur":2172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":6, "ts":1731546016974679, "dur":266, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546016974959, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546016976693, "dur":812, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546016977528, "dur":5984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546016983567, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546016983658, "dur":2042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546016985796, "dur":30888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017016732, "dur":456, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546017037441, "dur":7454, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546017017215, "dur":27695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017044976, "dur":20818, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546017065820, "dur":4371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017070393, "dur":4102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017074575, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546017074700, "dur":22723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017098111, "dur":1939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017100106, "dur":3922, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546017104066, "dur":3820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017107969, "dur":1386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017109397, "dur":241, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546017109653, "dur":15315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017125080, "dur":2454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017127613, "dur":8630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1731546017136315, "dur":2849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets6.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1731546017139220, "dur":1800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets5.assets" }}
+,{ "pid":12345, "tid":6, "ts":1731546017141135, "dur":1281, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets4.assets" }}
+,{ "pid":12345, "tid":6, "ts":1731546017142497, "dur":2245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":6, "ts":1731546017144793, "dur":3364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1731546017148211, "dur":6815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1731546017155194, "dur":83, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1731546017155344, "dur":7136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1731546017162563, "dur":7761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level7.resS" }}
+,{ "pid":12345, "tid":6, "ts":1731546017170911, "dur":16935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level3.resS" }}
+,{ "pid":12345, "tid":6, "ts":1731546017187943, "dur":179726, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016928226, "dur":3585, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016931815, "dur":844, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016932659, "dur":7267, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016939926, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1731546016941887, "dur":3893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1731546016945883, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016945993, "dur":4132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1731546016950179, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1731546016950237, "dur":588, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016950850, "dur":3082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1731546016954094, "dur":3344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1731546016957623, "dur":19355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1731546016977073, "dur":6916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1731546016984028, "dur":259, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016984308, "dur":1520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1731546016985874, "dur":233, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016986149, "dur":2544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":7, "ts":1731546016988749, "dur":157, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016988927, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":7, "ts":1731546016990797, "dur":316, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016991127, "dur":2463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1731546016993634, "dur":230, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546016993881, "dur":26958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1731546017020894, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546017020962, "dur":120369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1731546017141565, "dur":106, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1731546017141673, "dur":22679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1731546017164399, "dur":3320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level6.resS" }}
+,{ "pid":12345, "tid":7, "ts":1731546017167772, "dur":3046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level5.resS" }}
+,{ "pid":12345, "tid":7, "ts":1731546017170877, "dur":2369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level4" }}
+,{ "pid":12345, "tid":7, "ts":1731546017173302, "dur":3009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/level1.resS" }}
+,{ "pid":12345, "tid":7, "ts":1731546017176368, "dur":7662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1731546017184102, "dur":183615, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546016928279, "dur":3579, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546016931859, "dur":767, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546016932627, "dur":554, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546016933181, "dur":6736, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546016939937, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1731546016939918, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1731546016940024, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546016942138, "dur":2526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1731546016944711, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.44f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1731546016944709, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1731546016944865, "dur":2063, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1731546016947789, "dur":2017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1731546016950368, "dur":1781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1731546016952222, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546016952622, "dur":2804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1731546016955565, "dur":3077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1731546016959191, "dur":11999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1731546016971312, "dur":5126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546016976579, "dur":16357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546016993035, "dur":5325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546016998421, "dur":199, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546016998661, "dur":8192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017006901, "dur":290, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546017007216, "dur":13935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017021289, "dur":10028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017031437, "dur":590, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546017037987, "dur":7300, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546017032385, "dur":12915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017045492, "dur":19713, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546017065364, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546017065442, "dur":18859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017084403, "dur":11744, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546017096187, "dur":22398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017118631, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1731546017118733, "dur":4265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017123140, "dur":1699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017124947, "dur":1641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017126726, "dur":4600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/Bola Aventura_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017131456, "dur":118326, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Build/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1731546017249823, "dur":117903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1731546017374857, "dur":1717, "ph":"X", "name": "ProfilerWriteOutput" }
+,
